@@ -51,8 +51,8 @@ Vega
 
 ## 📊 Data Sources
 
-- **Star Names**: Contains 452 real stellar names from the International Astronomical Union (IAU) approved star naming catalog
-- **Constellation Names**: Includes 90 constellation names covering all modern astronomical official constellations
+- [Star Names](https://github.com/mirandadam/iau-starnames)
+- [Constellation Names](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/88constellations.html)
 
 ## 🎯 Use Cases
 
