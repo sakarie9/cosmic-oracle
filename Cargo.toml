@@ -1,0 +1,15 @@
+[package]
+name = "cosmic-oracle"
+version = "0.1.0"
+edition = "2024"
+
+[profile.release]
+lto = true
+strip = true
+
+[dependencies]
+rand = "0.9"
+csv = "1.3"
+# arboard = { version = "3.5", features = ["wayland-data-control"] }
+palc = "0.0.1"
+palc-derive = "0.0.1"
